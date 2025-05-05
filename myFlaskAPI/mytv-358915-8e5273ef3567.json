@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mytv-358915",
+  "private_key_id": "8e5273ef356759e7d6871a3f86f009160686992a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCb9tpr0s2ry1yA\nlr9+ClNUs1yd+lFHYeAF/DkfSCtcNErfgKN7B5Xz3MT06r42NkvNCKGHoLnekWGq\nLhqZVT90VLZxjFysFkZ/chY4xG61Dfw2rWrwc+83DriZAPJgyrlqxCAC9SYtWuWN\no7XW7LiZcGOFvPOSSpQFbga04OoIoXGl2+hELw1VlDNMALtvm5EgKx8CQerz4t6r\nGtVcSHrIUqM95p/RbH/jqMaZyWjQOfOOiXnLHkedSwKEceXNWUgPEL1+MgbPTzdQ\nNo0GsDPc1gLUNH/ZikwbbIGBXqRp4FmdRTOotLC41+q2CsTV6zaMARPSRsYI9GAZ\n3zfKs4dXAgMBAAECggEAFc2611wPGLdDZU6t0qcK40p35jX6aupJ8UxDiBYEyc0d\nsoU/VZHH6uGwPzUaBmYszqsoOdfEZFMavjnXyhva1R6KqvEee4hZrrN6W9FKUNF1\nswcnbhonFSFfuTQirllo9n4Yo5E2Fx0f/l8mqrdJT1og769stcTrUJ8DHQJcdXw0\njLcCmhfmYiIvOdoRMBgB7T6QNnfM4cbiKx19UbClrJW0X/7KgU0d13cG/z4wVjvg\n9AXWoSFh3A7eRezjuLtmbmybMFWL/Ywj7B+6+SF9jK++CaiVBiKOuhlGs6+J1pDv\nd3H+AXIcXeT8tpF1pc+kgXcNZdbUIZOLjZ+TNSOLwQKBgQDCKKcdc+KscueiQUAv\ndjbx2W0yiJeEooBLITaloO/fnrcM8ev11ysIPy3tvcZRppQvQyQ6iHK9a1V7ctk7\nKcfdC6MLxjx/jtXcrdc0HARLYTfL/vguxtHRI7vJSx252rM3AgltzOXOmHEjY20I\nRBbX2rvI02M266zejjN0dnwTEQKBgQDNo+O5oHLQCSlfBpSmSmPW2E2rgqmUYJd/\nwY90qJIEBT7LZN7R/LmjxhjfDgzTa7H408ilDVt82tExxOR0KeEha58MuchdpPKw\n2rZTlW/e7AS9P5BKLfKEyNw65Tdt7/GsvQ7NayUPZELwzOIhoGEEvushK5bG0YLS\nfMZIwfMj5wKBgGMm15DW6V8fnuLhZ6HVQOHpIza3QoldYx766ylSMq2EI/7cXJ/D\nLhqcCRxr2adA5lPsecfafp30/kZ4tC7ee06K7szIg4SwsM5tiIT3+cl08EWhA6T/\nq46eLPvy/E85PGRPCfmktYb3mm90Cu45t2CsN1GrgfM+D53oCKblCx/BAoGBAJ7b\nIzkrpGXnHemFiOGpB9VZRS7gAiZYM9CCc1KYQiwO7UJsSuEGjVXh2ya8kNXmFRb2\na8JtPiaGVyJOSnkePQb3P2eyQQFuQfizDDQndcNMqiCT8OAM/JLtI4vvtFEeEaDy\nb3PqeDeaqUehznJRlYD4B2WZaaFvCdOWhgqAoVYzAoGBAIQPzu0sjQ/Rmk+VcUK4\ni1ogGkyiBBdBgiHWXXciEnxxHSlR4J9Z/N7wKRH63EEzcXaIHBAHqZ1j+jyekNXR\nmFKhwXhgsMcklVTz0rJ+pK8ssuo1aWSkMs2Y7OzAtdwe5OvEw/FZ4/DLPbIo+Y+u\nVJvqPUDmO3xkMzoIc1nc8YTf\n-----END PRIVATE KEY-----\n",
+  "client_email": "servi-omytv@mytv-358915.iam.gserviceaccount.com",
+  "client_id": "108805258807162184202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/servi-omytv%40mytv-358915.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
